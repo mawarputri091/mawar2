@@ -1,7 +1,6 @@
 # Vue 3 + Vite
-
+https://vercel.com/mawars-projects-61b6b00c/mawar2
 This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
 
 Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://vuejs.org/guide/scaling-up/tooling.html#ide-support).
-https://web-toko-mawar2-git-main-mawars-projects-61b6b00c.vercel.app/
-npx plugins add vercel/vercel-plugin
+
